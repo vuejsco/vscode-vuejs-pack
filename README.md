@@ -20,6 +20,7 @@ This extension pack for Visual Studio Code adds extensions that are useful for V
 - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=vue.volar)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [VueJS File Generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-vuejs-generator)
+- [VueJS Commander](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-vuejs-commander)
 
 ### Node.js
 
